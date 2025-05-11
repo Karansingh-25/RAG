@@ -1,0 +1,20 @@
+
+youtube-transcript-api
+langchain-community
+faiss-cpu
+tiktoken
+
+# Environment Variable Management 
+python-dotenv
+
+
+#LangChain Core
+langchain
+langchain-core
+langchain-ollama
+langchain_experimental
+
+# Hugging Face Integration 
+langchain-huggingface 
+transformers
+huggingface-hub
